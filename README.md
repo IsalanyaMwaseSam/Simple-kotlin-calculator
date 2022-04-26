@@ -3,7 +3,7 @@ This is a simple calculator made in kotlin. It does simple and basic mathematica
 
 # LIBRARIES AND TECHNIQUES
 - [Kotlin](https://kotlinlang.org/)
-  - binding view
+- binding view
 
 
 
